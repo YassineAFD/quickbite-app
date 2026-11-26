@@ -12,3 +12,9 @@ A food delivery Application developed using agile practives
 - Dev 1
 - Dev 2
 - Dev 3
+
+## Restaurant Search
+Users can:
+- Search restaurants by name
+- Filter restaurant by cuisine
+- Sort restaurants by rating
